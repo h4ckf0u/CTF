@@ -10,7 +10,7 @@ dbname = chall2
 import requests
 import string
 
-session = 'no9uq3bmcke8uht7o5jhbqif78'
+session = 'your session' # input your session
 headers = {'Content-Type': 'text/html; charset=UTF-8'}
 
 dbname = ''
