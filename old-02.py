@@ -64,7 +64,7 @@ def find_table():
             else:
                 bit += '0'
         table_Name += chr(int(bit,2))
-
+        
     print("table: ",table_Name)
 
 def find_column():
