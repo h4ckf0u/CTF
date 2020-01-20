@@ -37,7 +37,7 @@ def sqli():
 		char = chr(int(bit,2))
 		print("{}:{}".format(payload,char))
 		password += char
-
+		
 	return password
 
 if __name__ == "__main__":
