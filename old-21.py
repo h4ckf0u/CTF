@@ -7,7 +7,7 @@ false - login fail
 """
 import requests
 
-cookies = {'PHPSESSION': '0epqv6h43h9e7pg9m89qmq0qqs'};
+cookies = {'PHPSESSION': 'input your session'};
 headers = {'Content-Type': 'text/html; charset=UTF-8'}
 
 def sqli():
